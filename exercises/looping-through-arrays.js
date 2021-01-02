@@ -14,7 +14,7 @@ var mama = ['rosario', 'caminata', 'abrazo'];
 
 for(let i = 0; i < mama.length; i++) {
   mama[i] =  mama[i] + "s";
-  
+
 }
 
 console.log(mama);
